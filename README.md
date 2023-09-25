@@ -1,6 +1,8 @@
-# Blog Organizer
+# Golden Project:~ Blog Management System
+Assigned By CodeClause.
 
 Welcome to the Blog Organizer project! This is a web application designed to help you manage and organize your blog posts effectively.
+
 
 ## Features
 
